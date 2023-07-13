@@ -1,0 +1,58 @@
+.main{
+    width: 100%;
+display: flex;
+}
+.blue{
+    width: 25%;
+    background-color: rgb(35, 84, 137);
+    height: 1000px;
+
+}
+.black{
+    width: 75%;
+    background-color: aqua;
+    height: 1000px;
+
+}
+.hb{
+    color: aliceblue;
+    background-color: rgb(12, 2, 71);
+    text-align: left;
+    text-align: center;
+    text-decoration: underline;
+}
+fieldset{
+    color: aliceblue;
+}
+ul>li{
+    color: aliceblue    ;
+}
+.center{
+    text-align: center
+    ;
+    text-decoration: underline;
+
+}
+.para{
+    word-spacing: 2px;
+    font-size: larger;
+}
+div>image{
+    border: 4px solid black ;
+
+}
+button{
+    background-color: rgb(34, 84,137);
+    size: 20px;
+}
+.head{
+    background-color: rgb(12, 2, 71);
+    font-size: 50px;
+    text-decoration: underline;
+color: aliceblue;
+}
+.off{
+    color: black;
+    word-spacing: 2px;
+}
+    
